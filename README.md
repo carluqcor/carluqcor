@@ -4,7 +4,7 @@
 <img height="100px" src="https://cdn.svgporn.com/logos/github-icon.svg">
 
 ## Welcome Everybody 👋
-Computer science engineer at University of Cordoba. Student collaborator at Applications of Artificial Vision research group from University of Cordoba
+I am a computer science engineer at University of Cordoba. Student collaborator at Applications of Artificial Vision research group from University of Cordoba.
 
 ## What i use in my day to day :rocket:
 
