@@ -1,4 +1,3 @@
-[![Twitter Badge](https://img.shields.io/badge/-@i62lucoc-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/i62lucoc)](https://twitter.com/i62lucoc)
 [![Linkedin Badge](https://img.shields.io/badge/carlosluquecordoba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosluquecordoba)](https://www.linkedin.com/in/carlosluquecordoba)
 
 <img height="100px" src="https://cdn.svgporn.com/logos/github-icon.svg">
@@ -17,46 +16,46 @@ I am a computer science engineer at University of Cordoba. Student collaborator 
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Typescript</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+          <span><b>OpenCV</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>React.js</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+          <span><b>TensorFlow</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
         <br/><br/>
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Next.js</b></span><br/><br/><br/>
-         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+          <span><b>Flutter</b></span><br/><br/><br/>
+         <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
          <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br/><br/><br/>
+        <span>Python</span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         <br/><br/>
       </td>
         <td width="25%" align="center" style="padding-bottom:3rem">
-            <span><b>Django</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+            <span><b>Firebase</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
         <br/><br/>
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Terminal</b></span><br/><br/><br/>
-         <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+          <span><b>Bash</b></span><br/><br/><br/>
+         <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
          <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>𝗚𝗶𝘁</span><br/><br/><br/>
+        <span>Git</span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br/><br/><br/>
+        <span>Visual Studio Code</span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         <br/><br/>
       </td>
